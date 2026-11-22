@@ -5,6 +5,15 @@
       "label": "BOT-UTANA",
       "expires": "2030-01-01T00:00:00+07:00",
       "revoked": false
+    },
+    {
+      "hash": "4ecd78eebe8014a16355211d9e39eab6ffc14f627c264c1eb709cd8ffa37b710",
+      "label": "@AddTokenRobot",
+      "expires": "2026-11-29T06:27:33.693Z",
+      "revoked": false,
+      "addedBy": "8674714143",
+      "addedByRole": "STAFF",
+      "addedAt": "2026-11-22T06:27:36.450Z"
     }
   ]
 }
